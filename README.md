@@ -8,7 +8,7 @@
 
 ## Perubahan yang Dilakukan
 
-### 3 Perubahan Menggunakan CSS
+### 4 Perubahan Menggunakan CSS
 
 1. **Header dengan Gradient Background**
    - Mengubah background header dari warna solid `#280872` menjadi linear gradient
@@ -24,6 +24,11 @@
    - Menambahkan efek bayangan pada semua judul section (`<h2>`)
    - Memberikan kesan visual yang lebih menarik dan hierarki yang lebih baik
    - Properti yang digunakan: `text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3)`
+
+4. **Footer dengan Gradient Background**
+   - Mengubah background footer dari warna solid `#280872` menjadi linear gradient
+   - Menambahkan `box-shadow` untuk efek kedalaman
+   - Properti yang digunakan: `background: linear-gradient(135deg, #667eea 0%, #764ba2 100%)` dan `box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3)`
 
 ### 2 Perubahan Menggunakan Bootstrap
 
