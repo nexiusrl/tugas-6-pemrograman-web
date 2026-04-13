@@ -1,5 +1,11 @@
 # Kafe Biru - Template Website
 
+## Deskripsi Repository
+**Repository ini** dibuat untuk memenuhi tugas matakuliah Pemrograman Web.
+- **Nama** : Muhammad Dzul Hannan
+- **Kelas** : B
+- **Tugas** : 6
+
 ## Deskripsi Template
 
 **Kafe Biru** adalah template website sederhana untuk sebuah kafe yang menampilkan informasi tentang:
