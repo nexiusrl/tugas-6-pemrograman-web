@@ -1,39 +1,10 @@
-# Kafe Biru - Template Website
+# Kafe Biru - Template Website Tugas 6 Pemrograman Web
 
 ## Deskripsi Repository
 **Repository ini** dibuat untuk memenuhi tugas matakuliah Pemrograman Web.
 - **Nama** : Muhammad Dzul Hannan
 - **Kelas** : B
 - **Tugas** : 6
-
-## Deskripsi Template
-
-**Kafe Biru** adalah template website sederhana untuk sebuah kafe yang menampilkan informasi tentang:
-
-- **Tentang Kami** - Deskripsi singkat tentang kafe
-- **Menu** - Daftar menu makanan dan minuman dengan gambar
-- **Jam Operasional** - Jadwal buka kafe
-- **Lokasi** - Alamat lokasi kafe
-
-Template ini menggunakan HTML, CSS, dan Bootstrap 5 untuk tampilan yang responsif dan modern.
-
-## Struktur File
-
-```
-tugas-6-pemrograman-web/
-├── landing-page.html    # Halaman utama Kafe Biru
-├── dashboard.html       # Halaman dashboard
-├── form.html            # Halaman form
-├── login.html           # Halaman login
-├── tabel.html           # Halaman tabel
-├── css/
-│   ├── style.css        # File CSS umum
-│   └── style1.css       # File CSS untuk landing page
-└── resource/            # Folder untuk asset gambar
-    ├── 1IcedCofee.jpg
-    ├── Strawberry Matcha Latte .jpg
-    └── tahuCrispy.JPG
-```
 
 ## Perubahan yang Dilakukan
 
@@ -70,14 +41,3 @@ tugas-6-pemrograman-web/
 
 - **Penambahan Bootstrap 5 CDN** - Menambahkan link Bootstrap 5.3.0 di `<head>` untuk menggunakan komponen Bootstrap
 - **Gambar Menu di Tengah** - Menambahkan `display: block` dan `margin: auto` pada gambar menu agar posisinya berada di tengah
-
-## Cara Menjalankan
-
-1. Buka file `landing-page.html` di browser
-2. Atau gunakan Live Server di VS Code untuk pengalaman development yang lebih baik
-
-## Teknologi yang Digunakan
-
-- HTML5
-- CSS3
-- Bootstrap 5.3.0
