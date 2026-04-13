@@ -41,11 +41,17 @@ select {
 }
 /* Mengatur tampilan tombol submit */
 input[type="submit"] {
-  background-color: #280872;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   border: none;
   color: #fff;
   text-decoration: none;
   cursor: pointer;
+  font-weight: bold;
+  transition: opacity 0.3s;
+}
+
+input[type="submit"]:hover {
+  opacity: 0.85;
 }
 /* Layout */
 /* Mengatur desain header */
