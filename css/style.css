@@ -5,7 +5,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  background: #280872;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 /* Membuat Container menjadi layout flexbox dan kotak login di tengah */
 .container {
@@ -19,6 +19,7 @@ body {
   flex-basis: 400px;
   background: #fff;
   padding: 20px;
+  border-radius: 10px;
 }
 /* Mengatur judul form dengan border bawah dan posisi di tengah */
 .login-box h2 {
@@ -35,6 +36,7 @@ select {
   padding: 15px 20px;
   margin: 8px 0;
   border: 1px solid #ccc;
+  border-radius: 10px;
 }
 /* Mengatur tampilan tombol submit */
 input[type="submit"] {
