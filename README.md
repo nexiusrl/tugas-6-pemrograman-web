@@ -46,8 +46,3 @@
    - Mengubah tampilan menu items menjadi Bootstrap cards
    - Menggunakan class: `card`, `card-img-top`, `card-body`, `card-title`, `card-text`, dan `h-100`
    - Memberikan tampilan yang lebih modern dan terstruktur untuk setiap item menu
-
-### Perubahan Tambahan
-
-- **Penambahan Bootstrap 5 CDN** - Menambahkan link Bootstrap 5.3.0 di `<head>` untuk menggunakan komponen Bootstrap
-- **Gambar Menu di Tengah** - Menambahkan `display: block` dan `margin: auto` pada gambar menu agar posisinya berada di tengah
