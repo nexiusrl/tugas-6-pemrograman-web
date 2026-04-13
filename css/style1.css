@@ -60,7 +60,7 @@ section h2 {
   font-size: 18px;
   margin: 5px 0;
 }
-footer {
+/* footer {
   background-color: #280872;
   color: #fff;
   text-align: center;
@@ -68,4 +68,11 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
+} */
+footer {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
