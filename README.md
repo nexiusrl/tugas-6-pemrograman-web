@@ -8,7 +8,7 @@
 
 ## Perubahan yang Dilakukan
 
-### 4 Perubahan Menggunakan CSS
+### 5 Perubahan Menggunakan CSS
 
 1. **Header dengan Gradient Background**
    - Mengubah background header dari warna solid `#280872` menjadi linear gradient
@@ -29,6 +29,11 @@
    - Mengubah background footer dari warna solid `#280872` menjadi linear gradient
    - Menambahkan `box-shadow` untuk efek kedalaman
    - Properti yang digunakan: `background: linear-gradient(135deg, #667eea 0%, #764ba2 100%)` dan `box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3)`
+
+5. **Login page**
+   - Mengganti background dari warna solid `#280872` menjadi linear gradient
+   - Menambahkan `border-radius` untuk efek rounded
+   - Properti yang digunakan: `background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);` dan `border-radius: 10px;`
 
 ### 2 Perubahan Menggunakan Bootstrap
 
