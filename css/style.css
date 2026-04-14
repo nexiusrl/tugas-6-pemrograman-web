@@ -31,8 +31,7 @@ body {
   margin: 0px 0px 20px;
 }
 /* Mengatur agar tag input dan select memenuhi container dan tampilan lebih bagus */
-input,
-select {
+input, select {
   width: 100%;
   padding: 15px 20px;
   margin: 8px 0;
